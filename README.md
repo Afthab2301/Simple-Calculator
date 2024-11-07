@@ -2,14 +2,22 @@
 Simple Calculator designed using 'Swing' packages in java.
 
 import java.awt.Color;
+<br>
 import java.awt.Font;
+<br>
 import java.awt.event.ActionEvent;
+<br>
 import java.awt.event.ActionListener;
+<br>
 
 import javax.swing.JButton;
+<br>
 import javax.swing.JFrame;
+<br>
 import javax.swing.JLabel;
+<br>
 import javax.swing.SwingConstants;
+<br>
 
 
 public class Calculator implements ActionListener {
